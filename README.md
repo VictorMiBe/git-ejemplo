@@ -4,4 +4,6 @@ Bienvenidos del curso de git desde cero
 En este curso aprenderas:
 - Instalacion de Git
 - Creacion de un repositorio
+- Comando basicos
+- Trabajo colaborativo
 - .....Y mucho mas
